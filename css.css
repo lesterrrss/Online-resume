@@ -68,5 +68,8 @@
         }
         .important-info {
             font-weight: bold;
-            color: rgb(199, 196, 196);
+            color: rgb(199, 196, 196); 
         }
+        .section-divider {
+            border-top: 1px solid #000;
+            margin-top: 20px;
