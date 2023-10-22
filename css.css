@@ -19,7 +19,6 @@
             background-color: #2e5f6b;
             text-align: left;
             color: rgb(199, 196, 196);
-            box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.1); /* Added shadow to the left side */
         }
 
         .left-column h2 {
